@@ -8,6 +8,12 @@ This repository presents a deep learning-based approach for classifying wheat va
 
 ---
 
+## Acknowledgements
+
+This project was completed as my M.Tech. Thesis Project under the guidance of Professor R. Balasubramanian Sir at IIT Roorkee. The project received close supervision from my Ph.D. supervisor, Mr. Nitin Tyagi. I am deeply grateful to both Professor R. Balasubramanian and Mr. Nitin Tyagi for their invaluable support and guidance throughout the entire project.
+
+---
+
 ## 📊 Dataset
 
 * **Classes**: 50 wheat varieties
@@ -102,10 +108,6 @@ cd Hyperspectral_Image_Classification_DL
 pip install torch torchvision numpy pandas matplotlib scikit-learn spectral scikit-image
 ```
 
-
-## Acknowledgements
-
-This project was completed as my M.Tech. Thesis Project under the guidance of Professor R. Balasubramanian Sir at IIT Roorkee. The project received close supervision from my Ph.D. supervisor, Mr. Nitin Tyagi. I am deeply grateful to both Professor R. Balasubramanian and Mr. Nitin Tyagi for their invaluable support and guidance throughout the entire project.
 
 ## License
 
